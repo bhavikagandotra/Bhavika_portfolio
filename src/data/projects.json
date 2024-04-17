@@ -1,0 +1,33 @@
+[
+    {
+        "title": "E-commerce Website",
+        "imageSrc": "projects/project.png",
+        "description":"A complete fully responsive webpage that is used to purchase products online",
+        "skills": ["HTML","css","javascript"]
+        
+    },
+    {
+        "title": "Grocery Website",
+        "imageSrc": "projects/project.png",
+        "description":"An online grocery shopping responsive webpage that is used to purchase groceries",
+        "skills": ["HTML","css","javascript"]
+        
+    },
+
+    {  
+
+        "title": "Bharat Quest Website",
+        "imageSrc": "projects/project.png",
+        "description":" A webpage that provides an information regarding Hotels, Restaurants, Beautiful Locations in cities",
+        "skills": ["HTML","css","javascript"]
+        
+    },
+    {
+        "title": "Data Analysis project",
+        "imageSrc": "projects/project.png",
+        "description":"Project improves sales by identifying most selling product and also improved customer experience ",
+        "skills":["Python","jupyter"]
+
+
+    }
+]

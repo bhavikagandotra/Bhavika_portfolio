@@ -1,0 +1,49 @@
+@import "../../Vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d; /* Corrected box-shadow syntax */
+  padding: 18px 24px;
+  max-width: 300px;
+  height: 400px;
+}
+
+.image {
+  margin-bottom: 20px; /* Increased margin for better spacing */
+  width: 100%; /* Ensuring image takes full width of container */
+  height: auto; /* Ensuring image height adjusts proportionally */
+  border-radius: 10px; /* Matching container's border-radius */
+}
+
+.title {
+  font-size: 24px; /* Increased font size for title */
+  font-weight: bold; /* Using 'bold' instead of '800' */
+  margin-bottom: 10px; /* Added margin for spacing */
+}
+
+.description {
+  margin-top: 10px; /* Adjusted margin for better alignment */
+  font-size: 16px; /* Increased font size for description */
+  font-weight: 500;
+}
+
+.skills {
+  margin-top: 15px; /* Adjusted margin for better spacing */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  padding: 0; /* Removed default padding */
+}
+
+.skill {
+  font-size: 16px; /* Adjusted font size for skills */
+  font-weight: 500; /* Increased font weight for better readability */
+  border-radius: 20px; /* Adjusted border-radius for rounded corners */
+  background: var(--color-dark);
+  padding: 6px 16px; /* Increased padding for better visual appeal */
+  margin-bottom: 6px; /* Added margin for spacing between skills */
+}
