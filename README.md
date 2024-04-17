@@ -42,7 +42,7 @@ To run this portfolio website locally on your machine, follow these steps:
 
 ## Contact Me
 
-Feel free to reach out to me via email at [bhavika66@gmail.com](mailto:bhavika66@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bhavikagandotra66).
+Feel free to reach out to me via email at [bhavikagandotra66@gmail.com](mailto:bhavikagandotra66@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bhavikagandotra66).
 
 I'm always open to new opportunities and collaborations!
 
